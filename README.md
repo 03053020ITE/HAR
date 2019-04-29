@@ -1,3 +1,1 @@
-# HAR
-
-SSDASD
+# Lab4_RNN_Automatic_text_generation
